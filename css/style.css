@@ -1,0 +1,67 @@
+* {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.img {
+  padding-top: 80px;
+  text-align: center;
+  justify-content: center;
+}
+h5 {
+  font-weight: bold;
+}
+h3 {
+  color: #23dbe7;
+  text-align: center;
+}
+i{
+  margin: auto;
+}
+ul li {
+  list-style: none;
+}
+h2 {
+  color: #23dbe7;
+}
+.left {
+  background-color: #d9d9d9;
+}
+.right {
+  background-color: #fafafa;
+}
+.personal {
+  text-align: left;
+  padding-top: 20px;
+}
+.second {
+  margin: auto;
+}
+
+.profil {
+  margin-top: 50px;
+}
+.fas {
+  color: #fafafa;
+}
+.fa {
+  color: #0a66c2;
+  margin: auto;
+  padding: 10px;
+}
+.fa-brands {
+  margin: auto;
+  padding: 10px;
+}
+.fa-solid {
+  color: #6f65e1;
+  margin: auto;
+}
+.lefts {
+  text-align: right;
+  list-style: none;
+  color: #23dbe7;
+}
+.hobies {
+  text-align: center;
+  justify-content: center;
+}
