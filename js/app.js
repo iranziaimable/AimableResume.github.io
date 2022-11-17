@@ -1,1 +1,3 @@
-// alert("red");
+function myFunction(element, clr) {
+    element.style.color = clr;
+}
